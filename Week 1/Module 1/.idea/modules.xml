@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdapterPatternExample/AdapterPatternExample.iml" filepath="$PROJECT_DIR$/AdapterPatternExample/AdapterPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderPatternExample/BuilderPatternExample.iml" filepath="$PROJECT_DIR$/BuilderPatternExample/BuilderPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommandPatternExample/CommandPatternExample.iml" filepath="$PROJECT_DIR$/CommandPatternExample/CommandPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecoratorPatternExample/DecoratorPatternExample.iml" filepath="$PROJECT_DIR$/DecoratorPatternExample/DecoratorPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DependencyInjectionExample/DependencyInjectionExample.iml" filepath="$PROJECT_DIR$/DependencyInjectionExample/DependencyInjectionExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethodPatternExample/FactoryMethodPatternExample.iml" filepath="$PROJECT_DIR$/FactoryMethodPatternExample/FactoryMethodPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVCPatternExample/MVCPatternExample.iml" filepath="$PROJECT_DIR$/MVCPatternExample/MVCPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Module 1.iml" filepath="$PROJECT_DIR$/.idea/Module 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObserverPatternExample/ObserverPatternExample.iml" filepath="$PROJECT_DIR$/ObserverPatternExample/ObserverPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProxyPatternExample/ProxyPatternExample.iml" filepath="$PROJECT_DIR$/ProxyPatternExample/ProxyPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyPatternExample/StrategyPatternExample.iml" filepath="$PROJECT_DIR$/StrategyPatternExample/StrategyPatternExample.iml" />
+    </modules>
+  </component>
+</project>
